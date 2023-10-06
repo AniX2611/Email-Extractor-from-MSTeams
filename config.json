@@ -1,0 +1,10 @@
+{
+  "email": "Your_email",
+  "password": "Your_password",
+
+  "headless" : false,
+  "mute_audio": false,
+  "chrome_type": "google-chrome",
+
+  "keys": ["21EC1","21CS3"]
+}
